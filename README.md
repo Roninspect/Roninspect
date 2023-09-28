@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roninspect
-- 👀 I’m interested in Javascript and Flutter
+- 👀 I’m interested in Flutter and Javascript
 - 🌱 I’m currently working with Flutter
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me roninspect21@gmail.com
